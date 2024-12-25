@@ -23,7 +23,7 @@ Create a responsive HTML email according to the provided design mockup that disp
 # Demo link 
 Access my site at [https://sofiiaruban.github.io/task-manager-app](https://sofiiaruban.github.io/task-manager-app/)
 
-# Test Sending Screenshots 
+# Email Test Sending Screenshots 
 
 ## Google Desktop
 
@@ -35,10 +35,11 @@ Access my site at [https://sofiiaruban.github.io/task-manager-app](https://sofii
 
 ## Outlook Desktop
 
-
-
+![outlook desk](https://github.com/user-attachments/assets/f883c4b4-fd96-4a70-889f-a1c08e369d68)
 
 ## Outlook Mobile
+![Screenshot_20241225-225410_Outlook](https://github.com/user-attachments/assets/775f1d31-8bf7-4dda-8c5f-dd9397757e28)
 
+![Screenshot_20241225-221241_Outlook](https://github.com/user-attachments/assets/a2b0f3af-c636-4d71-b65b-2429ca630619)
 
 
