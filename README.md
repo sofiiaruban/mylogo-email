@@ -9,7 +9,7 @@ HTML Email Template
 - [Task](#task)
 - [Specifications](#specifications)
 - [Demo link](#demo-link)
-- [Test Sending Screenshots](#screenshots)
+- [Test Sending Screenshots](#testsendingscreenshots)
 
 # Task
 Create a responsive HTML email according to the provided design mockup that displays correctly in popular email clients and browsers.
